@@ -32,7 +32,7 @@ The workflow includes:
     ```
 
 ### 2. Setting up Ollama Locally
-- Follow the instructions to set up Ollama locally [here](https://ollama.ai/).
+- Follow the instructions to set up Ollama locally [here](https://github.com/ollama/ollama).
 
 ### 3. Setting up Spring AI-based Weather Server
 - Use the Spring AI Weather Server to simulate MCP functionality. Follow the setup instructions provided in the [Spring AI Weather Server GitHub repository](https://github.com/spring-projects/spring-ai-examples/tree/main/model-context-protocol/weather/starter-webflux-server).
