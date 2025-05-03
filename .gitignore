@@ -1,0 +1,53 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# MacOS system files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Build output
+dist/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Generated files
+*.bak
+*.orig
+*.rej
+
+# Ignore any other custom files
+custom_ignore_file_name_here
+.venv
